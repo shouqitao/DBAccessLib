@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBAccessLib", "DBAccessLib\DBAccessLib.csproj", "{0A0DF1F4-336E-49BB-89EF-5FD0864F0621}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{7EDC56C7-9CB3-4980-8E03-F90178E8421F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A0DF1F4-336E-49BB-89EF-5FD0864F0621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A0DF1F4-336E-49BB-89EF-5FD0864F0621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A0DF1F4-336E-49BB-89EF-5FD0864F0621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A0DF1F4-336E-49BB-89EF-5FD0864F0621}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EDC56C7-9CB3-4980-8E03-F90178E8421F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EDC56C7-9CB3-4980-8E03-F90178E8421F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EDC56C7-9CB3-4980-8E03-F90178E8421F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EDC56C7-9CB3-4980-8E03-F90178E8421F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal

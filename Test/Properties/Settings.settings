@@ -1,0 +1,38 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Test.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="connStr" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=XYYT_10.7.1.10;Persist Security Info=True;User ID=ly;Password=ly;Unicode=True&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.OracleClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=XYYT_10.7.1.10;Persist Security Info=True;User ID=ly;Password=ly;Unicode=True</Value>
+    </Setting>
+    <Setting Name="connOdbcStr" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Dsn=rdd;dbq=D:\SoftSVN\Radiation\RDD.mdb;defaultdir=D:\SoftSVN\Radiation;driverid=25;fil=MS Access;maxbuffersize=2048;pagetimeout=5;uid=admin&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.Odbc&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Dsn=rdd;dbq=D:\SoftSVN\Radiation\RDD.mdb;defaultdir=D:\SoftSVN\Radiation;driverid=25;fil=MS Access;maxbuffersize=2048;pagetimeout=5;uid=admin</Value>
+    </Setting>
+    <Setting Name="connOleStr" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Provider=SQLOLEDB;Data Source=127.0.0.1;Password=sunjing;User ID=sa;Initial Catalog=yz&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.OleDb&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Provider=SQLOLEDB;Data Source=127.0.0.1;Password=sunjing;User ID=sa;Initial Catalog=yz</Value>
+    </Setting>
+    <Setting Name="connStrSql" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Provider=SQLOLEDB;Data Source=127.0.0.1;Persist Security Info=True;Password=sunjing;User ID=sa;Initial Catalog=sysg&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.OleDb&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Provider=SQLOLEDB;Data Source=127.0.0.1;Persist Security Info=True;Password=sunjing;User ID=sa;Initial Catalog=sysg</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
